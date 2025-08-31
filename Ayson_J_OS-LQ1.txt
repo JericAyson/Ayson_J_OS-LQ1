@@ -1,0 +1,67 @@
+C:\Users\ADMIN>cd Downloads
+C:\Users\ADMIN\Downloads>md Ayson_J_OS-LQ1
+C:\Users\ADMIN\Downloads>cd Ayson_J_OS-LQ1
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1>mkdir src common installer cache user
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1>cd src
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\src>md a\b\c\d\e\f\g
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\src>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1>cd common
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\common>md h\i\j\k\l\m
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\common>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1>cd cache
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\cache>md a b c d e f g h i j k l m n o p q r s t u v w x y z
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\cache>md 1 2 3 4 5 6 7 8 9 10
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\cache>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1>cd user
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>md user_jerico user_eliza user_juan
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>cd user_jerico
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico>md user_profile user_settings user_preferences
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico>cd user_profile
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_profile>md "jerico estabillo"
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_profile>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico>cd user_settings
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings>md OSversion AppVersion
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>cd user_eliza
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza>md user_profile user_settings user_preferences
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza>cd user_profile
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_profile>md eliza
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_profile>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza>cd user_settings
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_settings>md OSversion AppVersion
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_settings>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>cd user_juan
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan>md user_profile user_settings user_preferences
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan>cd user_profile
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_profile>md juan
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_profile>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan>cd user_settings
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_settings>md OSversion AppVersion
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_settings>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan>cd user_profile
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_profile>ren juan "juan pablo"
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_profile>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>cd user_eliza
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza>cd user_profile
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_profile>ren eliza "Eliza Taylor"
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_profile>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>cd user_jerico\user_settings\AppVersion
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings\AppVersion>md sampleApp_v2 sampleApp_v3 sampleApp_v5
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings\AppVersion>move C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings\AppVersion\sampleApp_v3 C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_settings
+        1 dir(s) moved.
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings\AppVersion>move C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings\AppVersion\sampleApp_v5 C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_settings
+        1 dir(s) moved.
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings\AppVersion>cd..
+C:\Users\Acer\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings>rd OSversion
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico\user_settings>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_jerico>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user>cd user_juan\user_settings
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_settings>rd OSversion
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan\user_settings>cd..
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_juan>cd..
+C:\Users\Admin\Downloads\Ayson_J_OS-LQ1\user>cd user_eliza\user_settings
+C:\Users\ADMIN\Downloads\Ayson_J_OS-LQ1\user\user_eliza\user_settings>rd OSversion
